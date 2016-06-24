@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#50514F</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="textColorPrimary">#122A33</color>
+    <color name="textColorSecondary">#FFFFFF</color>
+    <color name="backgroundColor">#F2F2F2</color>
+    <color name="fragmentAColor">#84B082</color>
+    <color name="fragmentBColor">#E8AE68</color>
+    <color name="fragmentCColor">#F2755C</color>
+
+</resources>
